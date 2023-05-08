@@ -42,4 +42,13 @@ console.log( "Firstname" , firstName, " type:", typeOffirstName);
 console.log (" City", City, "type:", typeOfCity);
 console.log (" State", State, "type:", typeOfCity);
 
+//4. Undefined
+ 
+ console.log('Undefined means variable isdecleared but its value is not assigned');
+ 
+//5. NULL
+console.log('null means variable is declared but its value is assigned as null')
+
+
+
 
