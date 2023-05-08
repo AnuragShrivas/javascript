@@ -23,5 +23,4 @@ console.log("Total Count:", totalCount, "type:", typeOftotalCount);
 
 var totalCount = 107;
 var typeOftotalCount = typeof totalCount;
-console.log
-("Total Count:", totalCount, "type:", typeOftotalCount);
+console.log("Total Count:", totalCount, "type:", typeOftotalCount);
