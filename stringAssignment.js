@@ -34,7 +34,7 @@ stringHandsOn();
 
 var StringHandsOn = "     Hey you are doing good,  keep it up"
 var resultLength = StringHandsOn.length;
-console.log("Total length of the Given String is:", result);
+console.log("Total length of the Given String is:", resultLength);
 
 var trimmedstringHandsOn = StringHandsOn.trim();
 var lengthAfterTrim = trimmedstringHandsOn.length;
